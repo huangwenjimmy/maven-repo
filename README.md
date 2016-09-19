@@ -7,7 +7,7 @@ pom.xml:
     <repositories>
         <repository>
             <id>huangwenjimmy-maven-repo</id>
-            <url>https://raw.githubusercontent.com/huangwenjimmy/maven-repo/</url>
+            <url>https://raw.githubusercontent.com/huangwenjimmy/maven-repo/master/</url>
         </repository>
     </repositories>
 ```
